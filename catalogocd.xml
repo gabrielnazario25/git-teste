@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogocd.xsl"?>
+<catalogo>
+	<cd>
+		<titulo> Sgt. Peppers </titulo>
+		<artista> The Beatles </artista>
+	</cd>
+	<cd>
+		<titulo> Ride the Lightning </titulo>
+		<artista> Metallica </artista>
+	</cd>
+</catalogo>
